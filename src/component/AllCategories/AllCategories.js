@@ -1,10 +1,15 @@
 import React from 'react';
+import Header from '../Common/Header';
+import { Container, Col, Row } from 'react-bootstrap';
 
 const AllCategories = () => {
     return (
         <div>
-            <h1>All Categories </h1>
-            
+            <Container fluid>
+                <Row>
+                    <Col><Header /></Col>
+                </Row>
+            </Container>
         </div>
     );
 };
