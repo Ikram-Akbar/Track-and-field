@@ -2,14 +2,16 @@
   {
     "_id": "64292e8f2a85c1288c8219ed",
     "picture": "https://i.ibb.co/s5H0D6n/workout-1.jpg",
-    "time": 45,
+    "time": 60,
+    "age": "20-45",
     "name": "Lunges  ",
     "description": "Challenging your balance is an essential part of a well-rounded exercise routine. Lunges do just that, promoting functional movement while also increasing strength in your legs and glutes."
   },
   {
     "_id": "64292e8f2297944a614b1614",
     "picture": "https://i.ibb.co/5GQw3pC/workout-2.jpg",
-    "time": 25,
+    "time": 60,
+    "age": "20-45",
     "name": "Pushups  ",
     "description": "Drop and give me 20! Pushups are one of the most basic yet effective bodyweight moves you can perform because of the number of muscles that are recruited to perform them."
   },
@@ -17,55 +19,63 @@
     "_id": "64292e8fd4d5c3df0f672fe2",
     "picture": "https://i.ibb.co/X2Nw85v/workout-3.jpg",
     "time": 60,
+    "age": "20-45",
     "name": "Squats  ",
     "description": "Squats increase lower body and core strength, as well as flexibility in your lower back and hips. Because they engage some of the largest muscles in the body, they also pack a major punch in terms of calories burned."
   },
   {
     "_id": "64292e8f3c6f3879c439137d",
     "picture": "https://i.ibb.co/vPX17n8/workout-4.jpg",
-    "time": 59,
+    "time": 60,
+    "age": "20-45",
     "name": "Standing  ",
     "description": "overhead dumbbell presses Compound exercises, which utilize multiple joints and muscles, are perfect for busy bees as they work several parts of your body at once. A standing overhead press isn't only one of the best exercises you can do for your shoulders, but it also engages your upper back and core."
   },
   {
     "_id": "64292e8f0ad4c9a41ee22612",
     "picture": "https://i.ibb.co/BrDmdRt/workout-5.jpg",
-    "time": 50,
+    "time": 60,
+    "age": "20-45",
     "name": "Single-leg deadlifts  ",
     "description": "This is another exercise that challenges your balance. Single-leg deadlifts require stability and leg strength. Grab a light to moderate dumbbell to complete this move."
   },
   {
     "_id": "64292e8f03954fcdb47ed747",
     "picture": "https://i.ibb.co/GH3KCZr/workout-6.jpg",
-    "time": 47,
+    "time": 60,
+    "age": "20-45",
     "name": "Planks ",
     "description": "Planks are an effective way to target both your abdominal muscles and your whole body. Planking stabilizes your core without straining your back the way situps or crunches might."
   },
   {
     "_id": "64292e8ffc73e3cce9f78f38",
     "picture": "https://i.ibb.co/8cZSRGp/workout-7.jpg",
-    "time": 23,
+    "time": 60,
+    "age": "20-45",
     "name": "Side Planks  ",
     "description": "A healthy body requires a strong core at its foundation, so don’t neglect core-specific moves like the side plank.Focus on the mind-muscle connection and controlled movements to ensure you’re completing this move effectively"
   },
   {
     "_id": "64292e8f6832ca3ea8f01a4a",
     "picture": "https://i.ibb.co/W53gVd0/workout-8.jpg",
-    "time": 58,
+    "time": 60,
+    "age": "20-45",
     "name": " Glute bridge ",
     "description": "The glute bridge effectively works your entire posterior chain, which isn’t only good for you, but it’ll make your booty look perkier, too."
   },
   {
     "_id": "64292e8f866ec525de27abe1",
     "picture": "https://i.ibb.co/HGzMZwS/workout-9.jpg",
-    "time": 24,
+    "time": 60,
+    "age": "20-45",
     "name": "Bender  ",
     "description": "Take a step forward with your right leg and bend your right knee as you do so, stopping when your thigh is parallel to the ground Ensure that your right knee doesn’t extend past your right foot. Push up off your right foot and return to the starting position. Repeat with your left leg. This is one rep"
   },
   {
     "_id": "645892e8f866ec525de27edfe1",
     "picture": "https://i.ibb.co/mcbLnd6/workout-10.jpg",
-    "time": 24,
+    "time": 60,
+    "age": "20-45",
     "name": "Bender  ",
     "description": "A standing overhead press isn’t only one of the best exercises you can do for your shoulders, but it also engages your upper back and core."
   }
