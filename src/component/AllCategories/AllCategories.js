@@ -28,7 +28,7 @@ const AllCategories = () => {
                             </Row>
                         </Container>
                     </Col>
-                    <Col lg={4} sm={6} xl={3} className='bg-secondary'>
+                    <Col lg={4} sm={6} xl={3} >
                         <Details />
                     </Col>
                 </Row>
