@@ -30,7 +30,7 @@ const Details = () => {
                 <Row className='bg-secondary rounded p-3 my-3'>
                     {
                         breakTime.map(time => <Col xl={2}>
-                            <a href='#' className='link-underline-secondary text-white'><strong>{time}s</strong></a>
+                            <a  className='link-underline-secondary text-white'><strong>{time}s</strong></a>
                         </Col>)
                     }
 
